@@ -1,2 +1,2 @@
 # E-Authentication-System
-Two factor E-Authentication System using HTML, CSS and PHP
+E-Authentication System using Html CSS and PHP.

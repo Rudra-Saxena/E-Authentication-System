@@ -1,0 +1,80 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family: 'Poppins', serif;
+	background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(p.jpg) center/cover no-repeat fixed;
+}
+
+h2{
+	font-size: 2.6rem;
+	padding-top: 250px;
+	text-align: center;
+	color: #CCDAD1;
+}
+h3{
+	color: #fefbd8;
+	padding: 40px;
+	font-size: 2rem;
+}
+h4{
+	color: #fefbd8;
+	padding: 30px;
+	font-size: 2rem;
+}
+h5{
+	color: #fefbd8;
+	padding: 30px;
+	font-size: 2rem;
+}
+.name input{
+	text-align: center;
+	border: none;
+	outline: none;
+	background: none;
+	background-color: #d5f4e6;
+    font-size: 18px;
+}
+.email input{
+	text-align: center;
+	border: none;
+	outline: none;
+	background: none;
+	background-color: #d5f4e6;
+    font-size: 18px;
+}
+
+.pass input{
+	text-align: center;
+	border: none;
+	outline: none;
+	background: none;
+	background-color: #d5f4e6;
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+.button input{
+	padding: 6px;
+	background: none;
+	background-color: #E6FDFF;
+	border: none;
+	border-radius: 4px;
+}
+.button input:hover{
+	background-color: #6096BA;
+}
+.log{
+	font-size: 22px;
+	padding: 8px;
+	color: #ECF87F;
+}
+.log a{
+	font-size: 16px;
+	text-decoration: none;
+	padding: 3px;
+	background-color: whitesmoke;
+	color: black;
+	border-radius: 4px;
+}
